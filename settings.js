@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081384','628987012169','6285891183846'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6289513081384','628987012169'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['6289513081384'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = '6289513081384' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'IQBAL' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'iqbal' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'Sullivan-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'IQBAL' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = 'iqbal' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCbDTyaAiUTWgoR-y-fH7dbw'
 global.ig = 'https://www.instagram.com/r_iqbl02'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.mygc = 'https://chat.whatsapp.com/Bb245eWe2OCJy4TgUpdzQg'
 global.myweb = 'https://rizkiiqbalmuladi.wordpress.com'
 global.email = 'roxashiqbal12@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© Sullivan-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'IQBAL' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'iqbal' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 20,
 }
 
 //—————「 Set Image 」—————//
